@@ -1,0 +1,6 @@
+{
+  "name": "Dental Clove – Sector 12 Noida Dental Clinic",
+  "description": "Gentle, honest dental care in Sector 12, Noida since 2016. Braces, clear aligners, dental implants, root canals, paediatric dentistry, and teeth whitening by 2 experienced doctors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
